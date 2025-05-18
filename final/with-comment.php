@@ -511,39 +511,39 @@ $responses_hil = [
     let conversationHistory = [];
     let firstQuestion = '';
 
-// Append a message to chat window with typewriting animation
-function appendMessage(text, sender) {
-  if (!text) return;
-  const msgEl = document.createElement('div');
-  msgEl.className = 'message ' + sender;
-  msgEl.innerHTML = ''; // Initialize with empty text
-  chat.appendChild(msgEl);
-  chat.scrollTop = chat.scrollHeight;
-
-  // Typewriting animation
-  const textArray = text.split('');
-  let i = 0;
-  const typingInterval = setInterval(() => {
-    if (i < textArray.length) {
-      msgEl.innerHTML += textArray[i];
-      i++;
-    } else {
-      clearInterval(typingInterval);
-    }
-  }, 20); // Adjust the speed of the animation (20ms = 50 characters per second)
-}
-
-
-// Render entire conversation in chat window
-function renderConversation(conversation) {
-  chat.innerHTML = '';
-  conversation.forEach(({text, sender}) => {
+    // Append a message to chat window with typewriting animation
+    function appendMessage(text, sender) {
+    if (!text) return;
     const msgEl = document.createElement('div');
     msgEl.className = 'message ' + sender;
-    msgEl.textContent = text; // Simply set the text content
+    msgEl.innerHTML = ''; // Initialize with empty text
     chat.appendChild(msgEl);
-  });
-}
+    chat.scrollTop = chat.scrollHeight;
+
+    // Typewriting animation
+    const textArray = text.split('');
+    let i = 0;
+    const typingInterval = setInterval(() => {
+        if (i < textArray.length) {
+        msgEl.innerHTML += textArray[i];
+        i++;
+        } else {
+        clearInterval(typingInterval);
+        }
+    }, 1); // Adjust the speed of the animation (20ms = 50 characters per second)
+    }
+
+
+    // Render entire conversation in chat window
+    function renderConversation(conversation) {
+    chat.innerHTML = '';
+    conversation.forEach(({text, sender}) => {
+        const msgEl = document.createElement('div');
+        msgEl.className = 'message ' + sender;
+        msgEl.textContent = text; // Simply set the text content
+        chat.appendChild(msgEl);
+    });
+    }
 
 
     // Update conversation history panel with saved conversation filenames

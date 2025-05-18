@@ -273,6 +273,7 @@ $responses_hil = [
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Mental Health Listener</title>
+    <link rel="icon" href="graphics/logo.png" style="filter: invert(100%);">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -284,13 +285,13 @@ $responses_hil = [
 <div class="chat-container" role="main">
     <div class="chat-main" aria-live="polite" aria-atomic="false">
      <nav aria-label="Chat navigation">
-         <h2 id="chatTitle">Mental Health Listener</h2>
+         <h2 id="chatTitle"><img src="graphics/logo.png" class="logo">Mental Health Listener</h2>
          <select id="langSelect" aria-label="Select language">
           <option value="en" selected>English</option>
           <option value="tl">Tagalog</option>
           <option value="hil">Hiligaynon</option>
          </select>
-         <button id="saveButton" aria-label="Save conversation and start new chat" title="Save & New Chat">Save & New Chat</button>
+         <button id="saveButton" aria-label="Save conversation and start new chat" title="Save & New Chat">+ New Chat</button>
      </nav>
 
      <div class="messages" id="chat" role="log" aria-live="polite" aria-relevant="additions"></div>
