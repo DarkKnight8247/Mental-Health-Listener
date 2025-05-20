@@ -1,0 +1,4 @@
+You: hi
+Bot: Hello buddy! I'm always here to chat. What's on your mind?
+You: I'm sad
+Bot: I'm really sorry you're feeling sad. I'm here with you.

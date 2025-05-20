@@ -1,0 +1,10 @@
+You: Hi
+Bot: Kamusta! Nandito ako para makinig. Ano ang nais mong pag-usapan?
+You: malungkot ako now
+Bot: Ayos lang sabihin na hindi ka okay. Handa akong makinig.
+You: miss ko na sya
+Bot: Pa umanhin, hindi kita na intindihan, pede mo bang ulitin?
+You: iiyak na lamang
+Bot: Okay lang umiyak. Malaking bagay na nailalabas mo ang nararamdaman mo.
+You: baliw ba ako? if yes sampalin kita
+Bot: Normal lang ang nararamdaman mo. Huwag mong ikahiya.

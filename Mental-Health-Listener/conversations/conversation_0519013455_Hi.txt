@@ -1,0 +1,32 @@
+You: Hi
+Bot: Hello buddy! I'm always here to chat. You can talk to me about anything on your mind — no matter how big or small. Let's connect.
+You: I'm sad
+Bot: I'm really sorry you're feeling sad. It can be heavy to carry those feelings alone. You can share what's weighing on you, and I'll listen without any judgment.
+You: I am depressed
+Bot: I'm really sorry you're feeling sad. It can be heavy to carry those feelings alone. You can share what's weighing on you, and I'll listen without any judgment.
+You: I want to commit suicide
+Bot: Sorry, I don't understand that. Could you please rephrase?
+You: I'm happy
+Bot: That's wonderful to hear! Embrace that joy and celebrate even the small wins. What made you feel this way?
+You: unclear
+Bot: Let's figure it out together, step by step.
+You: kasubo sakun adlaw
+Bot: Pansenya, indi taka ma inchindihan, pwede mo suliton?
+You: ginakapoy ko subong
+Bot: Kapoy gid ya usahay. Pahuway lang anay.
+You: puno sang kalipay akon adlaw
+Bot: Nalipay ako nga ginshare mo ang imo kalipay nga nabatyagan!
+You: na palpak kami
+Bot: Okay lang masala. Parte ina sang kabuhi.
+You: hi
+Bot: Kamusta! Nandito ako para makinig. Ano ang nais mong pag-usapan?
+You: kamusta
+Bot: Pa umanhin, hindi kita na intindihan, pwede mo bang ulitin?
+You: kumusta
+Bot: Kamusta! Nandito ako para makinig. Ano ang nais mong pag-usapan?
+You: masaya ako ngayong araw
+Bot: Salamat sa pagbabahagi ng iyong kasiyahan!
+You: @#^$)*hi
+Bot: Kamusta! Nandito ako para makinig. Ano ang nais mong pag-usapan?
+You: hi
+Bot: Kamusta! Nandito ako para makinig. Ano ang nais mong pag-usapan?

@@ -1,0 +1,6 @@
+You: k
+Bot: Sorry, I don't understand that. Could you please rephrase?
+You: hhh
+Bot: Sorry, I don't understand that. Could you please rephrase?
+You: df
+Bot: Sorry, I don't understand that. Could you please rephrase?
